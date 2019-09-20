@@ -10,3 +10,4 @@ CREATE TABLE burgers
     (50) NOT NULL,
     devoured BOOLEAN NOT NULL DEFAULT false,
 )
+
